@@ -50,11 +50,18 @@ h2 {
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
-
 #belize {
     background-color: #4dd0e1;
 }
 
 #barcelona {
+    background-color: #800000;
+}
+
+#bali {
+    background-color: #4dd0e1;
+}
+
+#tokyo {
     background-color: #800000;
 }
